@@ -9,4 +9,5 @@ Apasionada por los datos, la creatividad y el aprendizaje constante.
 
 📫 Conecta conmigo en [LinkedIn](https://linkedin.com/in/tu-usuario)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true)
+![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaKnoT&show_icons=true)
+
