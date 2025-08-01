@@ -2,10 +2,7 @@
 Data Scientist junior con background en diseño y comunicación.  
 Apasionada por los datos, la creatividad y el aprendizaje constante.
 
-mi-proyecto/
-├── README.md
-└── Descargas/
-    └── banner.png
+![Banner](Banner.jpg)
 
 🧠 Interesada en:  
 - Machine Learning  
