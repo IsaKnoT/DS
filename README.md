@@ -11,3 +11,4 @@ Apasionada por los datos, la creatividad y el aprendizaje constante.
 
 ![GitHub Stats](![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsaKnoT&show_icons=true)
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
