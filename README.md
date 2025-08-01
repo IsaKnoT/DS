@@ -2,6 +2,9 @@
 Data Scientist junior con background en diseño y comunicación.  
 Apasionada por los datos, la creatividad y el aprendizaje constante.
 
+![Visualización del modelo](descargas/banner.jpg)
+
+
 🧠 Interesada en:  
 - Machine Learning  
 - Visualización de datos  
